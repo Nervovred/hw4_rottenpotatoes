@@ -1,0 +1,11 @@
+# spec/fixtures/movies.yml
+pi_movie:
+  id: 1
+  title: Pi
+  rating: R
+  release_date: 1998-07-10
+
+forrest_movie:
+  id: 2
+  title: Forrest Gump
+  release_date: 1994-07-06
